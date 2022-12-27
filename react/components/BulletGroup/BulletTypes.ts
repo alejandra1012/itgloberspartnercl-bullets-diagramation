@@ -10,5 +10,4 @@ export interface LinkProps {
   attributeTitle?: string
   openNewtab?: boolean
   newTab?: boolean
-
 }
